@@ -1,5 +1,5 @@
 
-def pomo
+def perform
 	def signup
 		
 		puts "saisir un mot de passe svp"
@@ -29,6 +29,6 @@ def pomo
 	
 
 end
-pomo
+perform
 
 	
